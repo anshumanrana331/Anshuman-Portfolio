@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Anshuman-Portfolio/static/css/main.d6746821.chunk.css",
-    "main.js": "/Anshuman-Portfolio/static/js/main.c3989f79.chunk.js",
-    "main.js.map": "/Anshuman-Portfolio/static/js/main.c3989f79.chunk.js.map",
+    "main.js": "/Anshuman-Portfolio/static/js/main.d6e4a90a.chunk.js",
+    "main.js.map": "/Anshuman-Portfolio/static/js/main.d6e4a90a.chunk.js.map",
     "runtime-main.js": "/Anshuman-Portfolio/static/js/runtime-main.d2fdd1cf.js",
     "runtime-main.js.map": "/Anshuman-Portfolio/static/js/runtime-main.d2fdd1cf.js.map",
     "static/js/2.727dbad4.chunk.js": "/Anshuman-Portfolio/static/js/2.727dbad4.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.d2fdd1cf.js",
     "static/js/2.727dbad4.chunk.js",
     "static/css/main.d6746821.chunk.css",
-    "static/js/main.c3989f79.chunk.js"
+    "static/js/main.d6e4a90a.chunk.js"
   ]
 }
