@@ -33,7 +33,7 @@ export const projectsData = [
     {
         projectName: 'Food Plaza',
         projectDescription:
-            'Have you ever been hungry but cannot decide what to eat, and much greater questoin that how can you make it! Here, I present you the food search application, where you can get food recipes by typing one food item and even get its recipes.',
+            'Have you ever been hungry but cannot decide what to eat, and much greater question that how can you make it? Here, I present you the food search application, where you can get food recipes by typing one food item and even get its recipes.',
         imageUrl: 'https://github.com/anshumanrana331/extra/blob/main/assets/proj4.PNG?raw=true',
         githubUrl: 'https://github.com/anshumanrana331/Food-App',
         projectUrl: 'https://anshumanrana331.github.io/Food-App/',
